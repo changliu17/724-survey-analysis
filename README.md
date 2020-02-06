@@ -7,7 +7,7 @@ The objective is to find if the survey violated those assumptions and find ways 
 
 ### Assumptions Necessary for Solicited Self-Report Measurement to Work ###
 
-**By Dr.Michael Elasmar**
+_By Dr.Michael Elasmar_
 
 A.Respondent is truthful – Not deliberately lying
 
