@@ -1,30 +1,22 @@
 # 724-survey-analysis
-I used "Assumptions Necessary for Solid Self-Report Measurement to Work" developed by Dr. Micheal Elasmar to analyze a survey designed by Apple. The objective is to find if the survey violated those assumptions and find ways to improve this survey. 	This is a class assignment for COM CM 724, Boston University.
-
-------
-
-###### **Assumptions Necessary for Solicited Self-Report Measurement to Work**
-
-**By Michael Elasmar**
-
-A.Respondent is truthful – Not deliberately lying
-
-B.Respondent is self-aware – Able to observe self and environment and relate aspects about these to the researcher through her/his reactions to the researcher’s measures
-
-C.Respondent is interpreting each measure in the same way the researcher meant it
-
-D.Respondent is interpreting each measure in the same way that all other respondents are interpreting it
-
-E.Respondent is willing to self-disclose
-
-F.Respondent is not aware of the latent variable and/or relationships that you are trying to capture
-
-G.Respondent is able to correctly retrieve past information from memory
-
-H.Respondent is reacting to one concept at a time
-
-I.Respondent’s reaction is being captured with the highest level of precision possible relative to the concept associated each measure to which she/he is reacting
-
-
-
 I spent almost 20 minutes to finish this survey. The length of this survey may negatively affect my willingness to self-disclose `violate assumption E`.
+
+
+
+<img src="/Users/liuchang/Documents/GitHub/724-survey-analysis/Screenshots of the survey/1.png" alt="1" style="zoom:67%;" />
+
+<img src="/Users/liuchang/Documents/GitHub/724-survey-analysis/Screenshots of the survey/2.png" alt="2" style="zoom:67%;" />
+
+<img src="/Users/liuchang/Documents/GitHub/724-survey-analysis/Screenshots of the survey/3.png" alt="3" style="zoom:67%;" />
+
+
+
+<img src="/Users/liuchang/Documents/GitHub/724-survey-analysis/Screenshots of the survey/4.png" alt="4" style="zoom:67%;" />
+
+
+
+<img src="/Users/liuchang/Documents/GitHub/724-survey-analysis/Screenshots of the survey/5.png" alt="5" style="zoom:67%;" />
+
+<img src="/Users/liuchang/Documents/GitHub/724-survey-analysis/Screenshots of the survey/6.png" alt="6" style="zoom:67%;" />
+
+![8](/Users/liuchang/Documents/GitHub/724-survey-analysis/Screenshots of the survey/8.png)

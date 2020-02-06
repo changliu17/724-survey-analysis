@@ -1,11 +1,13 @@
 # 724-survey-analysis
-I used "Assumptions Necessary for Solid Self-Report Measurement to Work" developed by Dr. Micheal Elasmar to analyze a survey designed by Apple. The objective is to find if the survey violated those assumptions and find ways to improve this survey. 	This is a class assignment for COM CM 724, Boston University.
+I used "**Assumptions Necessary for Solid Self-Report Measurement to Work**" developed by Dr. Micheal Elasmar to analyze a survey designed by Apple. Those assumptions are showed below.
+
+The objective is to find if the survey violated those assumptions and find ways to improve this survey. This is a class assignment for COM CM 724, Boston University.
 
 ------
 
-###### **Assumptions Necessary for Solicited Self-Report Measurement to Work**
+#### **Assumptions Necessary for Solicited Self-Report Measurement to Work**
 
-**By Michael Elasmar**
+**By Dr.Michael Elasmar**
 
 A.Respondent is truthful – Not deliberately lying
 
@@ -25,6 +27,3 @@ H.Respondent is reacting to one concept at a time
 
 I.Respondent’s reaction is being captured with the highest level of precision possible relative to the concept associated each measure to which she/he is reacting
 
-
-
-I spent almost 20 minutes to finish this survey. The length of this survey may negatively affect my willingness to self-disclose `violate assumption E`.
